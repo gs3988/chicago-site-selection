@@ -129,7 +129,7 @@ chicago-site-selection/
 ---
 ## Acknowledgments
 
-Built with AI assistance (Claude). Analytical design, methodology, and review are mine.
+Built with AI assistance (Claude). Methodology, and review are mine.
 
 ## License
 
