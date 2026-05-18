@@ -127,6 +127,9 @@ chicago-site-selection/
   in the Starbucks site-selection literature.
 
 ---
+## Acknowledgments
+
+Built with AI assistance (Claude). Analytical design, methodology, and review are mine.
 
 ## License
 
