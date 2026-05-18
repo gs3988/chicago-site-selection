@@ -7,8 +7,8 @@ abstract: >-
   surface and a Getis-Ord Gi* hot-spot analysis. Includes a full QGIS project,
   print layouts, and a methodology document.
 authors:
-  - family-names: "Jean"
-    given-names: "—"
+  - family-names: "George"
+    given-names: "Seman"
 type: software
 license: MIT
 keywords:
