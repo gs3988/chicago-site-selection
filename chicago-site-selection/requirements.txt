@@ -1,9 +1,0 @@
-geopandas>=1.0
-shapely>=2.0
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-contextily>=1.4
-mapclassify>=2.6
-libpysal>=4.10
-esda>=2.5
